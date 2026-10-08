@@ -104,4 +104,3 @@ jsrecon_output_<timestamp>/
 ## Legal
 
 Only run this against targets you own or are explicitly authorized to test.
-EOF
